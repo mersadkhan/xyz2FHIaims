@@ -17,17 +17,20 @@ example:
 
 USE:
 just call it with the path of your xyz file.if you want save the output to a file use "y" as third switch and if not use "n" that just display the answer:
+
        $xyz2FHIaims /path/to/your/xyzfile y/n
 
-     example:
+ example:
+ 
         $xyz2FHIaims /home/mersad/ch-4.xyz n
 
 it will show you the FHI-aims geometry
  if you want save to a file ude the command below:
+ 
         $xyz2FHIaims /home/mersad/ch-4.xyz y
 
 
 TEST:
 enter in test folder for test see the benzen geometry:
      $cd test
-     $xyz2FHIaims benzen.xyz
+     $xyz2FHIaims benzen.xyz y
