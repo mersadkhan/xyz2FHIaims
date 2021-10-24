@@ -8,8 +8,6 @@ version 0.2
 INSTALLATION:
 enter to the folder of the code and install it by :
         $sh install.sh
-you code from its folder too.just ienter the to the folder and do this:
-        $chmod +x xyz2FHIaims
 now use it by:
         $/path/to/your/install/folder/xyz2FHIaims /path/to/your/xyzfile y/n
 example:
